@@ -1,4 +1,5 @@
 Author: Saiteja Sirikonda
+
 Course: Data Mining by Prof. Shayok Chakraborthy, ASU, Fall 2016
 
 The main aim of this assignment is to study the applications of basic Classifiers namely KNN and Neural Networks, and also to familiarize oneself with Matlab. 
